@@ -6,7 +6,7 @@ mathjax = true
 author = "Ryan Zhao"
 tags = ["MathJax","公式","LaTex","tutorial"]
 categories = ["misc"]
-keywords = ["MathJax","Latex","表达式","数学公式"]
+keywords = ["MathJax","Latex","数学公式","latex总结","latex教程"]
 description = "在网页中使用MathJax渲染数学公式的简单教程"
 +++
 ## 前言
