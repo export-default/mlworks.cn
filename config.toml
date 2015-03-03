@@ -1,0 +1,8 @@
+baseurl = "http://mlworks.cn"
+languageCode = "zh_CN"
+title = "ML works"
+disqusShortname = "mlworks"
+
+[params]
+    sidebartitle = "Ryan Zhao"
+    sidebartagline = "My thoughts on Machine Learning, Data Mining and Programming."
