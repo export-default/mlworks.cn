@@ -4,3 +4,10 @@ build:
     - arjen/hugo-build:
         version: 0.13
         theme: hugo-redlounge
+deploy:
+  steps:
+    - duleorlovic/ftp-deploy:
+        cwd: public/
+        destination: $SITE
+        username: $USER
+        password: $PASSWORD
