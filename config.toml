@@ -7,3 +7,7 @@ disqusShortname = "mlworks"
     sidebartitle = "Ryan Zhao"
     sidebartagline = "My thoughts on Machine Learning, Data Mining and Programming."
     bdtjid = "b8bc30deb19cf10a8529f1da3ea7e04c"
+    categoriescss = "/css/categories_color.css"
+    Copyright = '''
+    ©2015 mlworks.cn All rights reserved. Powered by <a herf="http://gohugo.io">Hugo</a> with
+    <a herf="https://github.com/tmaiaroto/hugo-redlounge">hugo-redlounge</a>.'''
