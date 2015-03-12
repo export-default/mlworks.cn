@@ -9,7 +9,7 @@ categories = ["misc"]
 keywords = ["MathJax","Latex","数学公式","latex总结","latex教程"]
 description = "在网页中使用MathJax渲染数学公式的简单教程"
 +++
-## 前言
+
 本文从[math.stackexchange.com](http://math.stackexchange.com)上名为[MathJax basic tutorial and quick reference](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference/5044)的问题翻译而来，并有所改动。主要讲述了如何使用MathJax和相关的Latex语法。
 
 ## MathJax简介
