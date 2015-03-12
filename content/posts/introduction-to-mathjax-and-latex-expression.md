@@ -11,13 +11,13 @@ description = "在网页中使用MathJax渲染数学公式的简单教程"
 +++
 ## 前言
 本文从[math.stackexchange.com](http://math.stackexchange.com)上名为[MathJax basic tutorial and quick reference](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference/5044)的问题翻译而来，并有所改动。主要讲述了如何使用MathJax和相关的Latex语法。
-<!--more-->
 
 ## MathJax简介
 [MathJax]是一款运行在浏览器中的开源的数学符号渲染引擎，使用MathJax可以方便的在浏览器中显示数学公式，不需要使用图片。目前，MathJax可以解析Latex、MathML和ASCIIMathML的标记语言。
 MathJax项目于2009年开始，发起人有American Mathematical Society, Design Science等，还有众多的支持者，个人感觉MathJax会成为今后数学符号渲染引擎中的主流，也许现在已经是了。
 本文接下来会讲述MathJax的基础用法，但不涉及MathJax的安装及配置。此外，推荐使用[StackEdit](https://stackedit.io/)学习MathJax的语法，它支持Markdown和MathJax，本文使用此编辑器撰写。
 
+<!--more-->
 ## 基础 
 
 ### 公式标记与查看公式
