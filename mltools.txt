@@ -1,0 +1,7 @@
+lasagne + nolearn
+graphlab
+vw
+libfm
+xgboost
+FLANN - Fast Library for Approximate Nearest Neighbors
+aibirds
