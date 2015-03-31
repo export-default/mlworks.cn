@@ -5,3 +5,6 @@ libfm
 xgboost
 FLANN - Fast Library for Approximate Nearest Neighbors
 aibirds
+dmlc/rabit
+liblbfgs & pylbfgs
+时间序列分析 
