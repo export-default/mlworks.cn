@@ -7,7 +7,7 @@ keywords = []
 mathjax = false
 tags = []
 title = "ldd and ldconfig"
-
+draft = true
 +++
 
 今天帮师姐运行MPI的时候，提示找不到动态链接库。因此，学习了一下Linux下的动态链接库相关的内容。

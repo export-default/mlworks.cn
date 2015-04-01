@@ -7,7 +7,7 @@ keywords = []
 mathjax = false
 tags = []
 title = "a few useful things to know about machine learning"
-
+draft = true
 +++
 
 

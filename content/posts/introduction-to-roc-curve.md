@@ -7,7 +7,7 @@ keywords = []
 mathjax = false
 tags = []
 title = "introduction to roc curve"
-
+draft = true
 +++
 
 ROC（receiver operating characteristic）曲线和AUC（Area Under the Curve）常用作分类器的性能指标。本文详细介绍了ROC和AUC的概念。
