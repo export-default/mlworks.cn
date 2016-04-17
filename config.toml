@@ -1,0 +1,16 @@
+baseurl = "http://mlworks.cn"
+languageCode = "zh_CN"
+title = "Ryan Zhao"
+disqusShortname = "mlworks"
+MetaDataFormat = "toml"
+theme = "angels-ladder"
+
+
+[Params]
+subtitle = "学习、实践、分享"
+github = "https://github.com/ryanzz"
+showsRSS = true
+profile = "/images/profile.png"
+copyright = "©2015-2016 mlworks.cn All rights reserved."
+bdtjid = "b8bc30deb19cf10a8529f1da3ea7e04c"
+
