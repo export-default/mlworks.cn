@@ -10,3 +10,4 @@ deploy:
         destination: $SITE
         username: $USER
         password: $PASSWORD
+		timeout: 40
